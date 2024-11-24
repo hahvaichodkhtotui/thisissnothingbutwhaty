@@ -1,7 +1,7 @@
 [
     {
         "domain": ".facebook.com",
-        "expirationDate": 1766739987.726629,
+        "expirationDate": 1766842785.465853,
         "hostOnly": false,
         "httpOnly": true,
         "name": "ps_l",
@@ -14,7 +14,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1766728424.626697,
+        "expirationDate": 1766656205.086913,
         "hostOnly": false,
         "httpOnly": true,
         "name": "datr",
@@ -23,11 +23,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "6co-ZxJ95d3cHD-Cq_nEPhzH"
+        "value": "0LA9Z7nQZaUdJ28jQTZ17Y1k"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1740031954.055732,
+        "expirationDate": 1740215340.871915,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "16x3cWcb6shpQJkkM.AWXK5SlC48zwu8Hf2ajgzhwc1kg.BnQA_n..AAA.0.0.BnQCDU.AWUlaqTbSMM"
+        "value": "1KCD8p3Q8OUSp8O4m.AWXR5MQcrIvVGx33tlxcxSMqcQM.BnQu0w..AAA.0.0.BnQu0w.AWUxDYypUpc"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1763788527.574418,
+        "expirationDate": 1763975340.87197,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "35%3ANhMXUnoB_y4lzw%3A2%3A1732252528%3A-1%3A5127"
+        "value": "47%3AIq7snpiXLYg97A%3A2%3A1732282907%3A-1%3A5127%3A%3AAcV_QawUcHCeBO-ecigrrgxRrrFemkHhemVS8DIvew"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1732784976.692215,
+        "expirationDate": 1732887585.05505,
         "hostOnly": false,
         "httpOnly": false,
         "name": "locale",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1763788527.573957,
+        "expirationDate": 1763975340.871817,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -75,11 +75,23 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "61557066219805"
+        "value": "61557079422695"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1732860759,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "presence",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "C%7B%22lm3%22%3A%22cg.8183717151749795%22%2C%22lm3p%22%3A%221180305496508661%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1732439588998%2C%22v%22%3A1%7D"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1733044385,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -88,11 +100,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1.100000023841858"
+        "value": "1.375"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1766739987.726858,
+        "expirationDate": 1766842785.46595,
         "hostOnly": false,
         "httpOnly": true,
         "name": "ps_n",
@@ -105,7 +117,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1766812527.574326,
+        "expirationDate": 1766842909.702855,
         "hostOnly": false,
         "httpOnly": true,
         "name": "sb",
@@ -114,11 +126,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "6co-Z-8v85M1A3R8Zo2u43td"
+        "value": "0LA9Z6jJTbjzSe8pP9L5CmJt"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1732860759,
+        "expirationDate": 1733044385,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
@@ -127,6 +139,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1746x829"
+        "value": "1397x663"
     }
 ]
