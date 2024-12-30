@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1743318037.217199,
+        "expirationDate": 1743319887.30584,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1rMorAoBVw2ZVRnoG.AWWEPPzCg5qhi-UjcE0rp-Wfo1Q.BncWNn..AAA.0.0.BnckUW.AWX7IW9xCPA"
+        "value": "18fUrYQuwWo2RErs8.AWWSVj5tbTl-WX1BIMZ0m7wlgMo.BnckxQ..AAA.0.0.BnckxQ.AWUrGl18Iw0"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1767078019.130756,
+        "expirationDate": 1767079887.305949,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,7 +49,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "10%3A--1y-XuD_66DLA%3A2%3A1735542019%3A-1%3A13369"
+        "value": "10%3A--1y-XuD_66DLA%3A2%3A1735542019%3A-1%3A13369%3A%3AAcUOI0wf7mYgzlJQqaNaxPDnFbKdbGTKzR2qKC4Glg"
     },
     {
         "domain": ".facebook.com",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1767078019.129818,
+        "expirationDate": 1767079887.305708,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -87,11 +87,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1735542041380%2C%22v%22%3A1%7D"
+        "value": "C%7B%22lm3%22%3A%22g.8792914770736527%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1735545417417%2C%22v%22%3A1%7D"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1736146840,
+        "expirationDate": 1736148686,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -130,7 +130,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1736146840,
+        "expirationDate": 1736148686,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
