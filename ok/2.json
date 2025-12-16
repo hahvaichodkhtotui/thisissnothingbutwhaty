@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1773568632.354553,
+        "expirationDate": 1773686586.118665,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1vd35JJVjLmsnrkve.AWfga0krEkRxgmYUPIx3xuPRosTkjYAYdz1gnUXGyNgWj0MI7y0.BpP9t6..AAA.0.0.BpP9t6.AWex2toOAOffA86kwLMa1P6zjwo"
+        "value": "139ajlsdtVtDjz7NO.AWc1yEQROowznPglmDo40Gw_jEAIx3lTesIqXyOxHUXGoADjYkY.BpQBDq..AAA.0.0.BpQag5.AWcZpKGngY3dFKfPYcFjhJMg7CY"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1797328632.354853,
+        "expirationDate": 1797342313.07259,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "32%3A9r0r0VyLd_3q_w%3A2%3A1765792629%3A-1%3A-1%3A%3AAcyixqhNLVtaE8Jzzs5WIc3I3tLuKEVZ9IWUQSn70A"
+        "value": "32%3A9r0r0VyLd_3q_w%3A2%3A1765792629%3A-1%3A-1%3A%3AAcw-yCHTchkMtIoDS1bJCdkkSLn9M38RfPfJiCAzHQ"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1797328632.354237,
+        "expirationDate": 1797342313.072409,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -74,11 +74,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1765792634525%2C%22v%22%3A1%7D"
+        "value": "C%7B%22lm3%22%3A%22g.1973185590144492%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1765910599698%2C%22v%22%3A1%7D"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1766397434,
+        "expirationDate": 1766515391,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -117,7 +117,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1766397434,
+        "expirationDate": 1766515391,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
