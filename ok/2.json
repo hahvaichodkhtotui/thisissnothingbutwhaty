@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1777711512.862568,
+        "expirationDate": 1777748302.276348,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1GyK7qFeEP29Fdnek.AWeGHV6wRfO0jQwxYmgvJbxSZH2mgRagLHlzNNzpVnyNp4cpXFI.BpfNfL..AAA.0.0.BpfxKZ.AWdaNuyrlW26YD8jIfiMpGHOLVo"
+        "value": "1GtRpCupAVkvDcbD6.AWfdiSZZxjhdWfOPUi2Xfjlnv677Sa2p_tCNKRsK3NnTd5YmUrU.Bpf6HM..AAA.0.0.Bpf6JO.AWer_cyKGm0q7gpZvVbRairr8gU"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1801471512.2963,
+        "expirationDate": 1801508172.150025,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "25%3ANmtM2LwoU-NHJQ%3A2%3A1769935511%3A-1%3A-1"
+        "value": "25%3ANmtM2LwoU-NHJQ%3A2%3A1769935511%3A-1%3A-1%3A%3AAcywWuuNreMkHSIny4KPboeMQN0gjKs9Vlsfy-_kSw"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1801471512.295084,
+        "expirationDate": 1801508172.149234,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -66,7 +66,19 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1770540310,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "presence",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1769972320866%2C%22v%22%3A1%7D"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1770577120,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -105,7 +117,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1770540310,
+        "expirationDate": 1770577120,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
