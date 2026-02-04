@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1777963217.946566,
+        "expirationDate": 1777971743.836091,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1Yc1H3Q4tCkCtknLS.AWcq-1AhN9EpSYtuiigI_3BCgJRjeEkU1_9Eldw1BifXRb5yhvc.BpgunR..AAA.0.0.BpgunR.AWey-sIJ8TP86Fz_atB6TjBYKvQ"
+        "value": "1qWC8i7eVkpD4t9ty.AWdO9ucYjBB-qgvSO44dzas9w-b_yxaj8ePhRXuAKELquJTM4tQ.Bpgwsf..AAA.0.0.Bpgwsf.AWf65YnJ9kfIhsKTHNec9oOL1eQ"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1801723217.946637,
+        "expirationDate": 1801731743.836233,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "16%3A_ZYYQTosGv24xQ%3A2%3A1770187212%3A-1%3A-1%3A%3AAcyXblcG6q5VmyIpKmdeZs8R35LSl9BQwEGJDBmbYw"
+        "value": "16%3A_ZYYQTosGv24xQ%3A2%3A1770187212%3A-1%3A-1%3A%3AAczsnGEsdn0v9y8NOlRCAC1zbYsnOz9Jng2_cDpCMw"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1801723217.946452,
+        "expirationDate": 1801731743.835867,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -74,11 +74,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1770187223817%2C%22v%22%3A1%7D"
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1770195743335%2C%22v%22%3A1%7D"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1770792023,
+        "expirationDate": 1770800543,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -117,7 +117,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1770792023,
+        "expirationDate": 1770800543,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
