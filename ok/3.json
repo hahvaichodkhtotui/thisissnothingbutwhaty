@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1780147179.314641,
+        "expirationDate": 1780218092.317179,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1oN00ugaKAPssGlik.AWc_nFtEAPdsxt0YCa490xSQkt84KMl9faxSturg1Z5tZUbe_Ok.BppDzr..AAA.0.0.BppDzr.AWfMheqKkQMQ6i9-KlAZgY38lac"
+        "value": "1chbkPJUeENFUkIUv.AWc2CRgB9dNOk_5Q5x_jjkzMRJKCH0TOpi-aT-h-8_6wZdu3igU.BppVHt..AAA.0.0.BppVHt.AWcqvAy0QWsbDxnIS1BJnvtaFWE"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1803907179.314773,
+        "expirationDate": 1803978092.317312,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "3%3AFxYFApNvWr--0w%3A2%3A1772371174%3A-1%3A-1%3A%3AAcxFRoGKRGi1TIc4cRARxZuQxktK0is_X-4cItMzpg"
+        "value": "7%3A4-ipTF5Pmyqdtg%3A2%3A1772442083%3A-1%3A-1%3A%3AAcyFDsktS72OeXAynAVKn04XrsNCn58ODTByr9ii_w"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1803907179.314458,
+        "expirationDate": 1803978092.316998,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1772975974,
+        "expirationDate": 1773046879,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -92,7 +92,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1806931177.169112,
+        "expirationDate": 1807002089.251325,
         "hostOnly": false,
         "httpOnly": true,
         "name": "sb",
@@ -105,7 +105,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1772975971,
+        "expirationDate": 1773046878,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
