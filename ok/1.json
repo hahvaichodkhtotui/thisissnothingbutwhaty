@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1780579259.30632,
+        "expirationDate": 1780598279.301,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1OnUC3ySgw6DOyU3k.AWf_INmNPoohUnLKX5ttzUCCOXNi9RANPL8J8ZlwS2GRaHqHyYM.BpqtS-..AAA.0.0.BpqtS-.AWep9WpU8cushhBePmZpMq_1BJ8"
+        "value": "18Q8PWVElAe014jPn.AWfodTLAxNGkZs1czVjS04EZcF86NSOgwl_dsYZ-txJxoV29m-s.Bpqx8L..AAA.0.0.Bpqx8L.AWc52jVJSgVGV6Rv5EorMu-_ePM"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1804339259.306467,
+        "expirationDate": 1804358279.301236,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,7 +49,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "50%3AVxAyX4_-WEhTDw%3A2%3A1772803259%3A-1%3A-1%3A%3AAcym-O3r5ZGrRVFsWsVgZRjCkTa4pbnwKGJOcCDoug"
+        "value": "4%3AXM6ibx9o43Z9dA%3A2%3A1772822278%3A-1%3A-1%3A%3AAcwqdAbFeODj5AksC2bQhM0Tpqwm9gLs9Gk0pu9y2g"
     },
     {
         "domain": ".facebook.com",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1804339259.306096,
+        "expirationDate": 1804358279.300647,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -79,7 +79,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1773408055,
+        "expirationDate": 1773427074,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -105,7 +105,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1807363257.035888,
+        "expirationDate": 1807382276.613335,
         "hostOnly": false,
         "httpOnly": true,
         "name": "sb",
@@ -118,7 +118,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1773408053,
+        "expirationDate": 1773427073,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
