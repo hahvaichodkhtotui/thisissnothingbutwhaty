@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1792572664.78907,
+        "expirationDate": 1792573448.832509,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,7 +36,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1ESS3bDvMCItGG17c.AWdDD0OubpYnNmqcRfQcr6GrF8qoceu8wUCus3ZnJdEt-MBukPk.BqYdYQ..AAA.0.0.BqYdYe.AWf5IxO_L8IeK8OxyWMtiIzuYew"
+        "value": "1RNVcDjUhmkG1mz9H.AWfvGLpUojVFVoNo4zg52uCyov5tzD2sluLqNVxoTPPY8h52QMg.BqYdku..AAA.0.0.BqYdku.AWfr3PpSB1chXhlEeLfG9uCqakI"
     },
     {
         "domain": ".facebook.com",
@@ -53,7 +53,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1816332650.930509,
+        "expirationDate": 1816333448.832708,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -62,11 +62,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "48%3ASGXn8jc5MrD_Ag%3A2%3A1784796683%3A-1%3A-1%3A%3AAcxOSEewIQQH432kUUn0rnbrQyMVuT4jyt29UjQZWQ"
+        "value": "6%3ABgUP1OidnKiixA%3A2%3A1784797478%3A-1%3A-1%3A%3AAcwamNI7aOIWGrocv1Fr0m1S--S40NF3thFc1s39XA"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1816332650.929401,
+        "expirationDate": 1816333448.83228,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -79,7 +79,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1785401463,
+        "expirationDate": 1785402240,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -118,7 +118,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1819356647.669369,
+        "expirationDate": 1819357445.661802,
         "hostOnly": false,
         "httpOnly": true,
         "name": "sb",
@@ -131,7 +131,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1785401450,
+        "expirationDate": 1785402240,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
